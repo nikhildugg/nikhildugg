@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 Hello, I’m [Your Name Here]!
+## 👋 Hello, I’m [DUGGINENI NIKHILENDRA]!
 
 **Aspiring Data Scientist** with a passion for extracting insights from data, building ML models, and contributing to collaborative projects. I believe in learning by doing, and I’m excited to apply my technical and creative skills in a practical, real-world environment!
 
